@@ -1,0 +1,17 @@
+
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.charts {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+canvas {
+  max-width: 400px;
+  margin: 20px;
+}

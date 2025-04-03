@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2025-04-03T10:00:00Z",
+    "threat": "Port Scan",
+    "count": 5
+  },
+  {
+    "timestamp": "2025-04-03T10:01:00Z",
+    "threat": "SQL Injection",
+    "count": 3
+  },
+  {
+    "timestamp": "2025-04-03T10:02:00Z",
+    "threat": "XSS Attack",
+    "count": 4
+  },
+  {
+    "timestamp": "2025-04-03T10:03:00Z",
+    "threat": "Brute Force",
+    "count": 2
+  },
+  {
+    "timestamp": "2025-04-03T10:04:00Z",
+    "threat": "Malware Traffic",
+    "count": 6
+  }
+]
